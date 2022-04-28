@@ -1,0 +1,2 @@
+# snowflake-notes
+Learning Snowflake
